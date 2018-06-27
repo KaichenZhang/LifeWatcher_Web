@@ -1,6 +1,9 @@
 # lifewatcher
 
-COEN6313
+COEN6313</br>
+Cloud Programing</br>
+Acknowledgement to Dr. Yan Liu for providing us such a knowledge-rich curriculum.</br>
+Also I'd like to give my greatest gratefulness to my teammates Zhen Du and Cong Li for their contributions to the project.</br>
 
 ### Web Development (Manager System)
 
